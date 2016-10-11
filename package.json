@@ -1,0 +1,19 @@
+{
+  "name": "promise-reflect",
+  "version": "1.0.0",
+  "description": "A simple function for use with Promise.all(...) that forces a promise to resolve, returning an object that indicates the actual promise status and the underlying object returned from the original promise.",
+  "main": "promise-reflect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bucabug/promise-reflect.git"
+  },
+  "author": "sam.farrington",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bucabug/promise-reflect/issues"
+  },
+  "homepage": "https://github.com/Bucabug/promise-reflect#readme"
+}
